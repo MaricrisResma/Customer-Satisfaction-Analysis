@@ -7,15 +7,21 @@ Goal:
 1.	Have an overview of current status of following KPIs to check success of the app:
    
 •	Number of Users
+
 •	DAU - Percentage of daily active users
+
 •	CSAT – Customer Satisfaction Rating
+
 •	Percentage of customers with a positive sentiment
 
 3.	Identify which customer fall under the following group:
    
 •	Advocates 
+
 •	Promoters
+
 •	Moderately Dissatisfied Detractors 
+
 •	Highly Dissatisfied Detractors 
 
 5.	Identify strategies to improve KPI metrics for better customer retention and increased customer reach.
